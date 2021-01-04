@@ -365,6 +365,12 @@ li > a:only-child:after { content: ''; }
   color: #fff;
 
 }
+.navstyle{
+
+	background-color: green;
+
+}
+
 .popup .close {
     position: absolute;
     top: 5px;
